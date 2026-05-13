@@ -2,7 +2,7 @@
 ## Estructura de datos
 ## Estudiante: Sebastian Arenillas
 
-Parctica 1.3 Recursividad
+Parctica 1.4 Recursividad
 
 Fecha: 13/05/2026
 
